@@ -1,0 +1,3 @@
+[submodule "src/mega-sdk"]
+	path = src/mega-sdk
+	url = git@github.com:hmemcpy/mega-sdk.git
